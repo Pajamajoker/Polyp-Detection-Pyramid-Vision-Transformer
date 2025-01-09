@@ -1,5 +1,7 @@
 # Polyp-PVT Implementation (Study & Learning Purposes)
 
+Comparative Study Paper here: https://drive.google.com/file/d/1LoTorOhbqq1G_NBc4Vw6BAG8TmCaf5xu/view?usp=drive_link
+
 This repository is a personal implementation of the paper **"Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers"** by Bo Dong, Wenhai Wang, Jinpeng Li, and Deng-Ping Fan. I created this repo for study and learning purposes, with minor custom modifications to help me better understand the model and experiment with it. Original Repo  here: https://github.com/DengPingFan/Polyp-PVT
 
 The original implementation is based on the **Polyp-PVT** model, which uses **Pyramid Vision Transformers (PVT)** for polyp segmentation. My modifications are intended to assist in experimenting with the methodology and understanding how the model performs in different configurations.
